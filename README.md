@@ -1,6 +1,6 @@
 # Margo's Github Profile 👋
 
-Hi there! This is Margo Yiguo Wang. I am a Business Analytics student and an aspiring Data Scientist. My home is in Changsha, China. I am currently living in Los Angeles, California. I speak Mandarin 🇨🇳 and English 🇺🇸.
+Hi there! This is Margo Yiguo Wang. I am a Business Analytics graduate student at USC, and I am an aspiring Data Scientist. My home is in Changsha, China. I am currently living in Los Angeles, California. I speak Mandarin 🇨🇳 and English 🇺🇸.
 
 * 🌱 I’m currently studying Business Analytics at the University of Southern California
 * 📫 How to reach me: yiguowan@usc.edu
