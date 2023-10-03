@@ -4,6 +4,6 @@ Hi there! This is Margo Yiguo Wang. I am a Business Analytics student and an asp
 
 * 🌱 I’m currently studying Business Analytics at the University of Southern California
 * 📫 How to reach me: yiguowan@usc.edu
-* 💬 Ask me about Texas Holdem, Video Games, Rock Climbing, or Surfing
+* 💬 Ask me about Texas Holdem, Rock Climbing, or Hiking
 * ⚡ Fun fact: I'm a dog person and my Corgi's name is Coke
 * 😄 Pronouns: She/Her/Hers
